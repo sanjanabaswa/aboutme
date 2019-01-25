@@ -5,5 +5,5 @@ My Hobbies are listening to music,doddleing.
 
 ## Repository links
 
-[Webpage](https://sanjanabaswa.github.io/aboutme/)
-[Source](https://github.com/sanjanabaswa/aboutme)
+- [Webpage](https://sanjanabaswa.github.io/aboutme/)
+- [Source](https://github.com/sanjanabaswa/aboutme)
