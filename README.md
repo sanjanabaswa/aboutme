@@ -38,10 +38,10 @@ platform where we can create our web app in gropus or single.its essentials are 
 
 - [Git tutorials](https://guides.github.com/activities/hello-world/)
 - [Markdown tutorials](https://guides.github.com/features/mastering-markdown/)
-- [visual studio](https://visualstudio.microsoft.com/vs/getting-started/)
+- [web apps](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 
 ## Contributors
 
 I am Sanjana Baswapuram, currently doing my Masters in Applied Computer Science.
-![panda](https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+![landscape](https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
